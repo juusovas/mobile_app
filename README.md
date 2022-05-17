@@ -3,6 +3,6 @@ App where you can find cocktails
 
 Technologies:
 
-React
-Javascript
+React,
+Javascript,
 Firebase authentication
